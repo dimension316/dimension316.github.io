@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dimension316.github.io</id>
     <title>RALPHX</title>
-    <updated>2020-03-17T11:20:03.285Z</updated>
+    <updated>2020-03-17T11:52:03.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dimension316.github.io"/>
     <link rel="self" href="https://dimension316.github.io/atom.xml"/>
     <logo>https://dimension316.github.io/images/avatar.png</logo>
     <icon>https://dimension316.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, RALPHX</rights>
+    <entry>
+        <title type="html"><![CDATA[Google]]></title>
+        <id>https://dimension316.github.io/post/google/</id>
+        <link href="https://dimension316.github.io/post/google/">
+        </link>
+        <updated>2020-03-17T11:51:07.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://dimension316.github.io/post/hello-gridea/</id>
