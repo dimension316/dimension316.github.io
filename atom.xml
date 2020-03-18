@@ -2,13 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dimension316.github.io</id>
     <title>RALPHX</title>
-    <updated>2020-03-18T10:15:59.637Z</updated>
+    <updated>2020-03-18T11:31:39.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dimension316.github.io"/>
     <link rel="self" href="https://dimension316.github.io/atom.xml"/>
     <logo>https://dimension316.github.io/images/avatar.png</logo>
     <icon>https://dimension316.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, RALPHX</rights>
+    <entry>
+        <title type="html"><![CDATA[股市]]></title>
+        <id>https://dimension316.github.io/post/gu-shi/</id>
+        <link href="https://dimension316.github.io/post/gu-shi/">
+        </link>
+        <updated>2020-03-18T11:30:40.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[驱蚊器]]></title>
+        <id>https://dimension316.github.io/post/qu-wen-qi/</id>
+        <link href="https://dimension316.github.io/post/qu-wen-qi/">
+        </link>
+        <updated>2020-03-18T11:30:10.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google]]></title>
         <id>https://dimension316.github.io/post/google/</id>
